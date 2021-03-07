@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aamna!</h1>
-<h3 align="center">An IT undergrad and aspirirng developer trying to write good code</h3>
+<h3 align="center">An IT undergrad and aspiring developer trying to write good code</h3>
 
 <p align="center"> 
   <img align="center" src="https://komarev.com/ghpvc/?username=codesnerd&label=Profile%20views&color=24a8f9&style=flat" alt="codesnerd" />
