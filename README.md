@@ -1,3 +1,5 @@
+![codesnerd banner](banner.gif)
+
 <h1 align="center">Hi 👋, I'm Aamna!</h1>
 <h3 align="center">IT Undergrad and Aspiring Developer Trying to Write Good Code</h3>
 
