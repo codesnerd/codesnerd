@@ -44,7 +44,7 @@
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codesnerd&show_icons=true&locale=en&layout=compact" alt="codesnerd" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codesnerd&show_icons=true&locale=en&layout=compact" alt="codesnerd" /> -->
   <!-- GitHub Stats: -->
-  <!-- &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=codesnerd&show_icons=true&locale=en" alt="codesnerd" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=codesnerd&show_icons=true&locale=en" alt="codesnerd" />
 </p>
