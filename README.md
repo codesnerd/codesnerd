@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  - 🔭 I’m currently working on <b>Interview Preparation</b>.<br />- 🌱 I’m currently learning <b>JavaScript and MERN Stack</b>.<br />- 👯 I’m looking to collaborate on <b>Open Source Contributions</b>.<br />- 🤝 I’m looking for help with <b>Open Source Contributions</b>.
+  - 🔭 I’m currently working on <b>my semester courses</b>.<br />- 🌱 I’m currently learning <b>JavaScript and MERN Stack</b>.<br />- 👯 I’m looking to collaborate on <b>Open Source Contributions</b>.<br />- 🤝 I’m looking for help with <b>Open Source Contributions</b>.
 </p>
 
 <h3 align="center">Connect with me:</h3>
