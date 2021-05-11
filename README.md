@@ -1,4 +1,4 @@
-![codesnerd banner](banner.gif)
+![codesnerd banner](https://user-images.githubusercontent.com/70039999/117883176-88007e80-b2c4-11eb-8071-5531b6f0f15d.gif)
 
 <h1 align="center">Hi 👋, I'm Aamna!</h1>
 <h3 align="center">IT Undergrad and Aspiring Developer Trying to Write Good Code</h3>
