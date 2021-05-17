@@ -18,14 +18,14 @@
   <!-- LinkedIn Badge -->
   <a href="https://linkedin.com/in/codesnerd" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&labelColor=blue&logo=LinkedIn&logoColor=white" alt="codesnerd LinkedIn" /></a>
   <!-- Stack Overflow Badge -->
-  <a href="https://stackoverflow.com/users/11917891" target="blank"><img src="https://img.shields.io/badge/-StackOverflow-F48024?style=flat&labelColor=F48024&logo=StackOverflow&logoColor=white" alt="codesnerd StackOverflow" alt="codesnerd StackOverflow" /></a>
+  <a href="https://stackoverflow.com/users/11917891" target="blank"><img src="https://img.shields.io/badge/-StackOverflow-F48024?style=flat&labelColor=F48024&logo=StackOverflow&logoColor=white" alt="codesnerd StackOverflow" /></a>
   <!-- HackerRank Badge -->
-  <a href="https://www.hackerrank.com/codesnerd" target="blank"><img src="https://img.shields.io/badge/-HackerRank-2AB85F?style=flat&labelColor=2AB85F&logo=HackerRank&logoColor=white" alt="codesnerd StackOverflow" alt="codesnerd StackOverflow" /></a>
+  <a href="https://www.hackerrank.com/codesnerd" target="blank"><img src="https://img.shields.io/badge/-HackerRank-2AB85F?style=flat&labelColor=2AB85F&logo=HackerRank&logoColor=white" alt="codesnerd HackerRank" /></a>
 
 <!-- Old Black Social Icons -->
-<!--  <a href="https://linkedin.com/in/codesnerd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="codesnerd" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/11917891" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="11917891" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/codesnerd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="codesnerd" height="30" width="40" /></a> -->
+<!--  <a href="https://linkedin.com/in/codesnerd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="codesnerd LinkedIn" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/11917891" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="codesnerd Stack Overflow" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/codesnerd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="codesnerd HackerRank" height="30" width="40" /></a> -->
 </p>
 
 <!-- Languages and Tools -->
