@@ -25,6 +25,7 @@
   <a href="https://www.hackerrank.com/codesnerd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="codesnerd" height="30" width="40" /></a> -->
 </p>
 
+<!-- Languages and Tools -->
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <!-- C++ -->
@@ -50,6 +51,7 @@
 </p>
 <br />
 
+<!-- Language and GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codesnerd&show_icons=true&locale=en&layout=compact" alt="codesnerd" />
   <!-- GitHub Stats: -->
