@@ -1,21 +1,28 @@
 ![codesnerd banner](https://user-images.githubusercontent.com/70039999/117883176-88007e80-b2c4-11eb-8071-5531b6f0f15d.gif)
 
+<!-- Hero Text -->
 <h1 align="center">Hi 👋, I'm Aamna!</h1>
 <h3 align="center">IT Undergrad and Aspiring Developer Trying to Write Good Code</h3>
 
 <p align="center"> 
-  <img align="center" src="https://komarev.com/ghpvc/?username=codesnerd&label=Profile%20views&color=24a8f9&style=flat" alt="codesnerd" />
+  <img align="center" src="https://komarev.com/ghpvc/?username=codesnerd&label=Profile%20views&color=24a8f9&style=flat" alt="codesnerd profile views" />
 </p>
 
 <p align="center">
   - 🔭 I’m currently working on <b>my semester courses</b>.<br />- 🌱 I’m currently learning <b>JavaScript and MERN Stack</b>.<br />- 👯 I’m looking to collaborate on <b>revising DS and Algo</b>.<br />- 🤝 I’m looking for help with <b>Open Source Contributions</b>.
 </p>
 
+<!-- Connect With Me -->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/codesnerd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="codesnerd" height="30" width="40" /></a>
+  
+  [![codesnerd Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&labelColor=blue&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/codesnerd)
+  [![codesnerd StackOverflow](https://img.shields.io/badge/-StackOverflow-F48024?style=flat&labelColor=F48024&&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/codesnerd)
+  [![codesnerd HackerRank](https://img.shields.io/badge/-HackerRank-2AB85F?style=flatF48024&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/codesnerd)
+
+<!--  <a href="https://linkedin.com/in/codesnerd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="codesnerd" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/11917891" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="11917891" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/codesnerd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="codesnerd" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/codesnerd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="codesnerd" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
