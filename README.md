@@ -17,8 +17,8 @@
 <p align="center">
   
   [![codesnerd Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&labelColor=blue&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/codesnerd)
-  [![codesnerd StackOverflow](https://img.shields.io/badge/-StackOverflow-F48024?style=flat&labelColor=F48024&&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/codesnerd)
-  [![codesnerd HackerRank](https://img.shields.io/badge/-HackerRank-2AB85F?style=flatF48024&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/codesnerd)
+  [![codesnerd StackOverflow](https://img.shields.io/badge/-StackOverflow-F48024?style=flat&labelColor=F48024&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/codesnerd)
+  [![codesnerd HackerRank](https://img.shields.io/badge/-HackerRank-2AB85F?style=flat&labelColor=2AB85F&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/codesnerd)
 
 <!--  <a href="https://linkedin.com/in/codesnerd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="codesnerd" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/11917891" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="11917891" height="30" width="40" /></a>
