@@ -15,17 +15,16 @@
 <!-- Connect With Me -->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <!-- LinkedIn Badge -->
+  <a href="https://linkedin.com/in/codesnerd" target="blank"><img align="center" src="https://user-images.githubusercontent.com/70039999/118733584-f8277b00-b855-11eb-93e2-b92bf8665c06.png" alt="codesnerd LinkedIn" height="35" width="35" /></a>
+  <a href="https://stackoverflow.com/users/11917891" target="blank"><img align="center" src="https://user-images.githubusercontent.com/70039999/118733315-7df6f680-b855-11eb-8e8c-792f212c29c6.png" alt="codesnerd Stack Overflow" height="35" width="35" /></a>
+  <a href="https://www.hackerrank.com/codesnerd" target="blank"><img align="center" src="https://user-images.githubusercontent.com/70039999/118731811-9fa2ae80-b852-11eb-9da6-b7285dcd6da4.png" alt="codesnerd HackerRank" height="36" width="36" /></a>
+  
+  <!-- Old Button/Badge Social Icons -->
+  <!-- 
   <a href="https://linkedin.com/in/codesnerd" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&labelColor=blue&logo=LinkedIn&logoColor=white" alt="codesnerd LinkedIn" /></a>
-  <!-- Stack Overflow Badge -->
   <a href="https://stackoverflow.com/users/11917891" target="blank"><img src="https://img.shields.io/badge/-StackOverflow-F48024?style=flat&labelColor=F48024&logo=StackOverflow&logoColor=white" alt="codesnerd StackOverflow" /></a>
-  <!-- HackerRank Badge -->
   <a href="https://www.hackerrank.com/codesnerd" target="blank"><img src="https://img.shields.io/badge/-HackerRank-2AB85F?style=flat&labelColor=2AB85F&logo=HackerRank&logoColor=white" alt="codesnerd HackerRank" /></a>
-
-<!-- Old Black Social Icons -->
-<!--  <a href="https://linkedin.com/in/codesnerd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="codesnerd LinkedIn" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/11917891" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="codesnerd Stack Overflow" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/codesnerd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="codesnerd HackerRank" height="30" width="40" /></a> -->
+  -->
 </p>
 
 <!-- Languages and Tools -->
