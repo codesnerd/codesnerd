@@ -15,9 +15,9 @@
 <!-- Connect With Me -->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/codesnerd" target="blank"><img align="center" src="https://user-images.githubusercontent.com/70039999/118733584-f8277b00-b855-11eb-93e2-b92bf8665c06.png" alt="codesnerd LinkedIn" height="35" width="35" /></a>
+  <a href="https://linkedin.com/in/codesnerd" target="blank"><img align="center" src="https://user-images.githubusercontent.com/70039999/118734328-96681080-b857-11eb-842d-df424f5e25f1.png" alt="codesnerd LinkedIn" height="35" width="35" /></a>
   <a href="https://stackoverflow.com/users/11917891" target="blank"><img align="center" src="https://user-images.githubusercontent.com/70039999/118733315-7df6f680-b855-11eb-8e8c-792f212c29c6.png" alt="codesnerd Stack Overflow" height="35" width="35" /></a>
-  <a href="https://www.hackerrank.com/codesnerd" target="blank"><img align="center" src="https://user-images.githubusercontent.com/70039999/118731811-9fa2ae80-b852-11eb-9da6-b7285dcd6da4.png" alt="codesnerd HackerRank" height="36" width="36" /></a>
+  <a href="https://www.hackerrank.com/codesnerd" target="blank"><img align="center" src="https://user-images.githubusercontent.com/70039999/118734356-a4b62c80-b857-11eb-9cfa-57aa19a87f4f.png" alt="codesnerd HackerRank" height="36" width="36" /></a>
   
   <!-- Old Button/Badge Social Icons -->
   <!-- 
@@ -57,5 +57,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codesnerd&show_icons=true&locale=en&layout=compact" alt="codesnerd" />
   <!-- GitHub Stats: -->
-  <!-- &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=codesnerd&show_icons=true&locale=en" alt="codesnerd" />
+  <!-- &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=codesnerd&show_icons=true&locale=en" alt="codesnerd" /> -->
 </p>
