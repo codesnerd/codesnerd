@@ -54,6 +54,7 @@
 <br />
 
 <!-- Language and GitHub Stats -->
+<!-- for background color: &bg_color=30,e96443,904e95 -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codesnerd&show_icons=true&locale=en&layout=compact" alt="codesnerd" />
   <!-- GitHub Stats: -->
