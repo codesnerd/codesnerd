@@ -2,14 +2,14 @@
 
 <!-- Hero Text -->
 <h1 align="center">Hi 👋, I'm Aamna!</h1>
-<h3 align="center">IT Undergrad and Aspiring Developer Trying to Write Good Code</h3>
+<h3 align="center">Fresh IT Grad and Aspiring Developer Trying to Write Good Code</h3>
 
 <p align="center"> 
   <img align="center" src="https://komarev.com/ghpvc/?username=codesnerd&label=Profile%20views&color=24a8f9&style=flat" alt="codesnerd profile views" />
 </p>
 
 <p align="center">
-  - 🔭 I’m currently working on <b>my semester courses</b>.<br />- 🌱 I’m currently learning <b>JavaScript and MERN Stack</b>.<br />- 👯 I’m looking to collaborate on <b>revising DS and Algo</b>.<br />- 🤝 I’m looking for help with <b>Open Source Contributions</b>.
+  - 🔭 I’m currently working on the <b><a href="https://www.linkedin.com/feed/hashtag/?keywords=codesnerd30daysofcode">#30DaysOfCode</a> challenge</b>.<br />- 🌱 I’m currently learning <b>JavaScript and MERN Stack</b>.<br />- 👯 I’m looking to collaborate on <b>revising DS and Algo</b>.<br />- 🤝 I’m looking for help with <b>Open Source Contributions</b>.
 </p>
 
 <!-- Connect With Me -->
