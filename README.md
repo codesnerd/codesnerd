@@ -10,7 +10,7 @@
 
 <p align="center">
   - 🔭 I’m currently <b>looking for opportunities</b>.<br />
-  - 🌱 I’m currently learning <b>JavaScript and MERN Stack</b>.<br />
+  - 🌱 I’m currently learning <b>problem solving</b>.<br />
   - 👯 I’m looking to collaborate on <b>revising DS and Algo</b>.<br />
   - 🤝 I’m looking for help with <b>Open Source Contributions</b>.
 </p>
