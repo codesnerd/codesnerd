@@ -27,7 +27,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <!-- C++ -->
-  <img src="https://user-images.githubusercontent.com/70039999/133166068-a27baaca-8d45-449e-96cd-8a330a79339c.png" alt="cplusplus" width="45px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45px"/>
   <!-- Python -->
   &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45px"/>
   <!-- HTML5 -->
