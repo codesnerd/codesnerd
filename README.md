@@ -19,7 +19,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://codesnerd.com/"><img align="center" src="https://user-images.githubusercontent.com/70039999/133166623-b8fd6c6c-7de9-41eb-a515-37ae7320c7cf.png" alt="codesnerd website" width="35" /></a>
-  <a href="https://www.linkedin.com/in/codesnerd/"><img align="center" src="https://user-images.githubusercontent.com/70039999/133168933-4b5c6bd3-c486-45d4-b6ee-8914ffa2e411.png" alt="codesnerd stack overflow" height="42" width="42" /></a>
+  <a href="https://www.linkedin.com/in/codesnerd/"><img align="center" src="https://user-images.githubusercontent.com/70039999/133168933-4b5c6bd3-c486-45d4-b6ee-8914ffa2e411.png" alt="codesnerd Stack Overflow" height="42" width="42" /></a>
   <a href="https://blog.codesnerd.com/"><img align="center" src="https://user-images.githubusercontent.com/70039999/133170049-5021eace-fa75-4bab-9570-320225eb4dfe.png" alt="codesnerd blog" width="35" /></a>
 </p>
 
@@ -43,5 +43,5 @@
 
 <!-- Language and GitHub Stats -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codesnerd&count_private=true&include_all_commits=true" alt="codesnerd's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codesnerd&count_private=true&include_all_commits=true" alt="codesnerd's GitHub stats" />
 </p>
