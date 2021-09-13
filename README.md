@@ -18,11 +18,11 @@
 <!-- Connect With Me -->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/codesnerd" target="blank"><img align="center" src="https://user-images.githubusercontent.com/70039999/118734328-96681080-b857-11eb-842d-df424f5e25f1.png" alt="codesnerd LinkedIn" height="35" width="35" /></a>
-  <a href="https://stackoverflow.com/users/11917891" target="blank"><img align="center" src="https://user-images.githubusercontent.com/70039999/118735352-b1d41b00-b859-11eb-9d6c-b388d5f44019.png" alt="codesnerd Stack Overflow" height="35" width="35" /></a>
-  <a href="https://www.hackerrank.com/codesnerd" target="blank"><img align="center" src="https://user-images.githubusercontent.com/70039999/118734356-a4b62c80-b857-11eb-9cfa-57aa19a87f4f.png" alt="codesnerd HackerRank" height="36" width="36" /></a>
- 
+  <a href="https://codesnerd.com/"><img align="center" src="https://user-images.githubusercontent.com/70039999/133166623-b8fd6c6c-7de9-41eb-a515-37ae7320c7cf.png" alt="codesnerd website" width="35" /></a>
+  <a href="https://www.linkedin.com/in/codesnerd/"><img align="center" src="https://user-images.githubusercontent.com/70039999/133168933-4b5c6bd3-c486-45d4-b6ee-8914ffa2e411.png" alt="codesnerd stack overflow" height="42" width="42" /></a>
+  <a href="https://blog.codesnerd.com/"><img align="center" src="https://user-images.githubusercontent.com/70039999/133170049-5021eace-fa75-4bab-9570-320225eb4dfe.png" alt="codesnerd blog" width="35" /></a>
 </p>
+
 <!-- Languages and Tools -->
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
