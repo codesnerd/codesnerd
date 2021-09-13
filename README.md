@@ -51,10 +51,6 @@
 <br />
 
 <!-- Language and GitHub Stats -->
-<!-- for background color: &bg_color=30,e96443,904e95 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codesnerd&show_icons=true&locale=en&layout=compact" alt="codesnerd" />
-  <!-- GitHub Stats: -->
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=codesnerd"/> -->
-  <!-- &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=codesnerd&show_icons=true&locale=en" alt="codesnerd" /> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codesnerd&count_private=true&include_all_commits=true" alt="codesnerd's GitHub Stats" />
 </p>
