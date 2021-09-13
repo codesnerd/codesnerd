@@ -5,22 +5,22 @@
 <h3 align="center">Fresh IT Grad and Aspiring Software Engineer</h3>
 
 <p align="center"> 
-  <img align="center" src="https://komarev.com/ghpvc/?username=codesnerd&label=Profile%20views&color=24a8f9&style=flat" alt="codesnerd profile views" />
+  <img align="center" src="https://komarev.com/ghpvc/?username=codesnerd&label=Profile%20views&color=24a8f9&style=flat" alt="codesnerd profile views"/>
 </p>
 
 <p align="center">
-  - 🔭 I’m currently <b>looking for opportunities</b>.<br />
-  - 🌱 I’m currently learning <b>problem solving</b>.<br />
-  - 👯 I’m looking to collaborate on <b>revising DS and Algo</b>.<br />
+  - 🔭 I’m currently <b>looking for opportunities</b>.<br/>
+  - 🌱 I’m currently learning <b>problem solving</b>.<br/>
+  - 👯 I’m looking to collaborate on <b>revising DS and Algo</b>.<br/>
   - 🤝 I’m looking for help with <b>Open Source Contributions</b>.
 </p>
 
 <!-- Connect With Me -->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://codesnerd.com/"><img align="center" src="https://user-images.githubusercontent.com/70039999/133166623-b8fd6c6c-7de9-41eb-a515-37ae7320c7cf.png" alt="codesnerd website" width="35" /></a>
-  <a href="https://www.linkedin.com/in/codesnerd/"><img align="center" src="https://user-images.githubusercontent.com/70039999/133168933-4b5c6bd3-c486-45d4-b6ee-8914ffa2e411.png" alt="codesnerd Stack Overflow" height="42" width="42" /></a>
-  <a href="https://blog.codesnerd.com/"><img align="center" src="https://user-images.githubusercontent.com/70039999/133170049-5021eace-fa75-4bab-9570-320225eb4dfe.png" alt="codesnerd blog" width="35" /></a>
+  <a href="https://codesnerd.com/"><img align="center" src="https://user-images.githubusercontent.com/70039999/133166623-b8fd6c6c-7de9-41eb-a515-37ae7320c7cf.png" alt="codesnerd website" width="35"/></a>
+  <a href="https://www.linkedin.com/in/codesnerd/"><img align="center" src="https://user-images.githubusercontent.com/70039999/133168933-4b5c6bd3-c486-45d4-b6ee-8914ffa2e411.png" alt="codesnerd Stack Overflow" height="42" width="42"/></a>
+  <a href="https://blog.codesnerd.com/"><img align="center" src="https://user-images.githubusercontent.com/70039999/133170049-5021eace-fa75-4bab-9570-320225eb4dfe.png" alt="codesnerd blog" width="35"/></a>
 </p>
 
 <!-- Languages and Tools -->
@@ -35,11 +35,11 @@
   <!-- CSS3 -->
   &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45px"/>
   <!-- JavaScript -->
-  &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45px"/>
+  &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45px" height="42px"/>
   <!-- Git -->
-  &nbsp;<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45px"/>
+  &nbsp;<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45px" height="42px"/>
 </p>
-<br />
+<br/>
 
 <!-- Language and GitHub Stats -->
 <p align="center">
