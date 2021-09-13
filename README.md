@@ -2,7 +2,7 @@
 
 <!-- Hero Text -->
 <h1 align="center">Hi 👋, I'm Aamna!</h1>
-<h3 align="center">Fresh IT Grad and Aspiring Developer Trying to Write Good Code</h3>
+<h3 align="center">Fresh IT Grad and Aspiring Software Engineer</h3>
 
 <p align="center"> 
   <img align="center" src="https://komarev.com/ghpvc/?username=codesnerd&label=Profile%20views&color=24a8f9&style=flat" alt="codesnerd profile views" />
