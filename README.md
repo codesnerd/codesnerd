@@ -10,7 +10,7 @@
 </p>
 <p align="center"> 
   🔭 I’m currently <b>looking for opportunities</b>.<br/>
-  💻 I’m currently working on <b><a href="https://codesnerd.com/recent.html">some cool things</a></b>.<br/>
+  💻 I’m currently working on <b><a href="http://aamnasayyed.com/recent.html">some cool things</a></b>.<br/>
   🚀 I’m currently learning <b>JavaScript & Problem Solving</b>.<br/>
   🤝 I’m looking to collaborate on <b>Open Source Contributions</b>.
 </p>
@@ -20,7 +20,7 @@
 <p align="center">
   <a href="https://codesnerd.com/"><img align="center" src="https://user-images.githubusercontent.com/70039999/133166623-b8fd6c6c-7de9-41eb-a515-37ae7320c7cf.png" alt="codesnerd website" width="35"/></a>
   <a href="https://www.linkedin.com/in/codesnerd/"><img align="center" src="https://user-images.githubusercontent.com/70039999/133168933-4b5c6bd3-c486-45d4-b6ee-8914ffa2e411.png" alt="codesnerd Stack Overflow" width="42" height="42" /></a>
-  <a href="https://blog.codesnerd.com/"><img align="center" src="https://user-images.githubusercontent.com/70039999/133170049-5021eace-fa75-4bab-9570-320225eb4dfe.png" alt="codesnerd blog" width="35"/></a>
+  <a href="http://blog.aamnasayyed.com/"><img align="center" src="https://user-images.githubusercontent.com/70039999/133170049-5021eace-fa75-4bab-9570-320225eb4dfe.png" alt="codesnerd blog" width="35"/></a>
 </p>
 
 <!-- Languages and Tools -->
