@@ -4,22 +4,22 @@
 <h1 align="center">Hi 👋, I'm Aamna!</h1>
 <h3 align="center">Fresh IT Grad and Aspiring Software Engineer</h3>
 
+<!-- Profile Views -->
 <p align="center"> 
   <img align="center" src="https://komarev.com/ghpvc/?username=codesnerd&label=Profile%20views&color=24a8f9&style=flat" alt="codesnerd profile views"/>
 </p>
-
-<p align="center">
-  - 🔭 I’m currently <b>looking for opportunities</b>.<br/>
-  - 🌱 I’m currently learning <b>problem solving</b>.<br/>
-  - 👯 I’m looking to collaborate on <b>revising DS and Algo</b>.<br/>
-  - 🤝 I’m looking for help with <b>Open Source Contributions</b>.
+<p align="center"> 
+  🔭 I’m currently <b>looking for opportunities</b>.<br/>
+  💻 I’m currently working on <b><a href="https://codesnerd.com/recent.html">some cool things</a></b>.<br/>
+  🚀 I’m currently learning <b>Problem Solving & JavaScript</b>.<br/>
+  🤝 I’m looking to collaborate on <b>Open Source Contributions</b>.
 </p>
 
 <!-- Connect With Me -->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://codesnerd.com/"><img align="center" src="https://user-images.githubusercontent.com/70039999/133166623-b8fd6c6c-7de9-41eb-a515-37ae7320c7cf.png" alt="codesnerd website" width="35"/></a>
-  <a href="https://www.linkedin.com/in/codesnerd/"><img align="center" src="https://user-images.githubusercontent.com/70039999/133168933-4b5c6bd3-c486-45d4-b6ee-8914ffa2e411.png" alt="codesnerd Stack Overflow" height="42" width="42"/></a>
+  <a href="https://www.linkedin.com/in/codesnerd/"><img align="center" src="https://user-images.githubusercontent.com/70039999/133168933-4b5c6bd3-c486-45d4-b6ee-8914ffa2e411.png" alt="codesnerd Stack Overflow" width="42" height="42" /></a>
   <a href="https://blog.codesnerd.com/"><img align="center" src="https://user-images.githubusercontent.com/70039999/133170049-5021eace-fa75-4bab-9570-320225eb4dfe.png" alt="codesnerd blog" width="35"/></a>
 </p>
 
@@ -41,7 +41,7 @@
 </p>
 <br/>
 
-<!-- Language and GitHub Stats -->
+<!-- GitHub Stats -->
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codesnerd&count_private=true&include_all_commits=true" alt="codesnerd's GitHub stats" />
 </p>
