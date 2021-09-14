@@ -43,5 +43,5 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codesnerd&theme=algolia&count_private=true&include_all_commits=true" alt="codesnerd's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codesnerd&count_private=true&include_all_commits=true" alt="codesnerd's GitHub stats" />
 </p>
