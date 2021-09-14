@@ -11,7 +11,7 @@
 <p align="center"> 
   🔭 I’m currently <b>looking for opportunities</b>.<br/>
   💻 I’m currently working on <b><a href="https://codesnerd.com/recent.html">some cool things</a></b>.<br/>
-  🚀 I’m currently learning <b>Problem Solving & JavaScript</b>.<br/>
+  🚀 I’m currently learning <b>JavaScript & Problem Solving</b>.<br/>
   🤝 I’m looking to collaborate on <b>Open Source Contributions</b>.
 </p>
 
