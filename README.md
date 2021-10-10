@@ -2,7 +2,7 @@
 
 <!-- Hero Text -->
 <h1 align="center">Hi 👋, I'm Aamna!</h1>
-<h3 align="center">Fresh IT Grad and Aspiring Software Engineer</h3>
+<h3 align="center">Fresh IT Grad and Passionate Software Engineer</h3>
 
 <!-- Profile Views -->
 <p align="center"> 
@@ -10,7 +10,7 @@
 </p>
 <p align="center"> 
   🔭 I’m currently <b>looking for opportunities</b>.<br/>
-  💻 I’m currently working on <b><a href="http://codesnerd.com/recent.html">some cool things</a></b>.<br/>
+  💻 I’m currently working on <b><a href="http://codesnerd.com/recent">some cool things</a></b>.<br/>
   🚀 I’m currently learning <b>JavaScript & Problem Solving</b>.<br/>
   🤝 I’m looking to collaborate on <b>Open Source Contributions</b>.
 </p>
