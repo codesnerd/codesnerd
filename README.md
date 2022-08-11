@@ -2,7 +2,7 @@
 
 <!-- Hero Text -->
 <h1 align="center">Hi 👋, I'm Aamna!</h1>
-<h3 align="center">Fresh IT Grad and Passionate Software Engineer</h3>
+<h3 align="center">IT Grad and Passionate Software Engineer</h3>
 
 <!-- Profile Views -->
 <p align="center"> 
