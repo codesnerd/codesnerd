@@ -27,7 +27,7 @@
 
 <!-- Connect With Me -->
 <section align="center">
-  <h2>Connect with Me</h2>
+  <h3>Connect with Me</h3>
   <p>
     Reach out to me <b><a href="https://codesnerd.com/contact">here</a></b>.
   </p>
@@ -37,6 +37,6 @@
 
 <!-- GitHub Stats -->
 <section align="center">
-  <h2>GitHub Stats</h2>
+  <h3>GitHub Stats</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=codesnerd&theme=github_dark&count_private=true&include_all_commits=true" alt="codesnerd's GitHub stats" />
 </section>
