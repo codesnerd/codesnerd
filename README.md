@@ -24,3 +24,13 @@
     🔭 I’m currently <b><a href="https://codesnerd.com/now#open-to">open to opportunities</a></b>.
   <p>
 </section>
+
+<!-- Connect With Me -->
+<section align="center">
+  <h2>Connect with Me</h2>
+  <p>
+    Reach out to me <b><a href="https://codesnerd.com/contact">here</a></b>.
+  </p>
+</section>
+<hr />
+<br />
