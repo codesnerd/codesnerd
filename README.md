@@ -34,3 +34,9 @@
 </section>
 <hr />
 <br />
+
+<!-- GitHub Stats -->
+<section align="center">
+  <h2>GitHub Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=codesnerd&theme=github_dark&count_private=true&include_all_commits=true" alt="codesnerd's GitHub stats" />
+</section>
