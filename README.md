@@ -13,7 +13,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=codesnerd&label=Profile%20views&color=2a5fd7&style=flat" alt="codesnerd's GitHub views"/>
 </div>
-<hr />
 <br />
 
 <!-- Now -->
@@ -33,7 +32,6 @@
   </p>
 </section>
 <hr />
-<br />
 
 <!-- GitHub Stats -->
 <section align="center">
