@@ -7,11 +7,20 @@
   <h1>Hi 👋, I'm Aamna!</h1>
   <h3>Software Engineer, Freelance Developer, FOSS Enthusiast</h3>
 </section>
-<hr />
 <br />
 
 <!-- Profile Views -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=codesnerd&label=Profile%20views&color=2a5fd7&style=flat" alt="profile views counter"/>
 </div>
+<hr />
 <br />
+
+<!-- Now -->
+<section align="center">
+  <p>
+    💻 I’m currently working on <b><a href="https://codesnerd.com/now#working-on">some cool things</a></b>.
+    <br />
+    🔭 I’m currently <b><a href="https://codesnerd.com/now#open-to">open to opportunities</a></b>.
+  <p>
+</section>
