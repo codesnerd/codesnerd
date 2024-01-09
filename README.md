@@ -29,9 +29,9 @@
 <section align="center">
   <h3>Connect with Me</h3>
   <div>
-    <a href="https://codesnerd.com/"><img src="https://github.com/codesnerd/codesnerd/assets/70039999/c486b75c-fb28-4017-bc88-b273ec7c15dd.png" width="40" height="40" alt="codesnerd website" /></a>&nbsp;
-    <a href="https://www.linkedin.com/in/codesnerd/"><img src="https://github.com/codesnerd/codesnerd/assets/70039999/49ae4d43-761e-4282-89cc-2557e60bffd1.png" width="40" height="40" alt="codesnerd LinkedIn" /></a>&nbsp;
-    <a href="mailto:contact@codesnerd.com"><img src="https://github.com/codesnerd/codesnerd/assets/70039999/1e562f77-ab3a-41c6-91b3-54fdbaff44dd.png" width="40" height="40" alt="codesnerd email" /></a>&nbsp;
+    <a href="https://codesnerd.com/"><img src="https://github.com/codesnerd/codesnerd/assets/70039999/c486b75c-fb28-4017-bc88-b273ec7c15dd.png" width="40" height="40" alt="codesnerd website" /></a>
+    &nbsp;<a href="https://www.linkedin.com/in/codesnerd/"><img src="https://github.com/codesnerd/codesnerd/assets/70039999/49ae4d43-761e-4282-89cc-2557e60bffd1.png" width="40" height="40" alt="codesnerd LinkedIn" /></a>
+    &nbsp;<a href="mailto:contact@codesnerd.com"><img src="https://github.com/codesnerd/codesnerd/assets/70039999/1e562f77-ab3a-41c6-91b3-54fdbaff44dd.png" width="40" height="40" alt="codesnerd email" /></a>
   </div>
 </section>
 <br />
