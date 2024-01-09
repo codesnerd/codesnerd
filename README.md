@@ -2,7 +2,6 @@
 
 ![codesnerd Banner](https://github.com/codesnerd/codesnerd/assets/70039999/865f3224-6e41-49ec-8ab5-38e530bdeafb.gif)
 
-
 <!-- Introduction -->
 <section align="center">
   <h1>Hi 👋, I'm Aamna!</h1>
