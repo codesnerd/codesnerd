@@ -1,6 +1,6 @@
 <!-- Banner -->
 
-![codesnerd Banner](https://github.com/codesnerd/codesnerd/assets/70039999/865f3224-6e41-49ec-8ab5-38e530bdeafb.gif)
+![codesnerd Banner](https://github.com/codesnerd/codesnerd/assets/70039999/b47f578e-23e8-405f-ad57-802ed0f404eb.gif)
 
 <!-- Introduction -->
 <section align="center">
