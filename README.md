@@ -40,5 +40,5 @@
 <!-- GitHub Stats -->
 <section align="center">
   <h3>GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=codesnerd&theme=github_dark&count_private=true&include_all_commits=true" alt="codesnerd's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codesnerd&theme=github_dark&count_private=true&include_all_commits=true" alt="codesnerd GitHub stats" />
 </section>
