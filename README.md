@@ -27,7 +27,7 @@
 
 <!-- Connect With Me -->
 <section align="center">
-  <h3>Connect with Me</h3>
+  <h2>Connect with Me</h2>
   <div>
     <a href="https://codesnerd.com/"><img src="https://github.com/codesnerd/codesnerd/assets/70039999/c486b75c-fb28-4017-bc88-b273ec7c15dd.png" width="45" height="45" alt="codesnerd website" /></a>
     &nbsp;<a href="https://www.linkedin.com/in/codesnerd/"><img src="https://github.com/codesnerd/codesnerd/assets/70039999/49ae4d43-761e-4282-89cc-2557e60bffd1.png" width="45" height="45" alt="codesnerd LinkedIn" /></a>
@@ -38,7 +38,7 @@
 
 <!-- Skills -->
 <section align="center">
-  <h3>Skills</h3>
+  <h2>Skills</h2>
   <div>
     <img src="https://github.com/codesnerd/codesnerd/assets/70039999/0f05be00-7e37-43b8-a7e9-d6068ec49391.png" width="50" height="50" alt="JavaScript" />
     &nbsp;&nbsp;<img src="https://github.com/codesnerd/codesnerd/assets/70039999/7b222f1c-9429-438d-a050-395123305e69.png" width="50" height="50" alt="TypeScript" />
