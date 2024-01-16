@@ -15,7 +15,7 @@
 </div>
 <br />
 
-<!-- Now -->
+<!-- Recent Work -->
 <section align="center">
   <p>
     🔭 I’m currently <b><a href="https://codesnerd.com/now#open-to">open to opportunities</a></b>.
