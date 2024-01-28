@@ -1,5 +1,4 @@
 <!-- Banner -->
-
 ![codesnerd Banner](https://github.com/codesnerd/codesnerd/assets/70039999/80807c22-1262-4188-8fd4-f049d2969cb3.gif)
 
 <!-- Introduction -->
