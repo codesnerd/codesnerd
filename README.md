@@ -28,7 +28,7 @@
 <div align="center">
   <h2>Connect with Me</h2>
   <div>
-    <a href="https://codesnerd.com/"><img src="https://github.com/codesnerd/codesnerd/assets/70039999/2f277fd4-5f73-4842-9686-42db0880feb6.png" width="45" height="45" alt="codesnerd website" /></a>
+    <a href="https://codesnerd.com/"><img src="https://github.com/codesnerd/codesnerd/assets/70039999/012c64d4-196b-409b-97b9-73b72628fce2.png" width="45" height="45" alt="codesnerd website" /></a>
     &nbsp;&nbsp;<a href="https://www.linkedin.com/in/codesnerd/"><img src="https://github.com/codesnerd/codesnerd/assets/70039999/b6166a31-eff2-4a7e-9222-9083bc78e1b5.png" width="45" height="45" alt="codesnerd LinkedIn" /></a>
     &nbsp;&nbsp;<a href="mailto:contact@codesnerd.com"><img src="https://github.com/codesnerd/codesnerd/assets/70039999/e3e33203-314c-4371-b074-d3bdb9029e74.png" width="45" height="45" alt="codesnerd email" /></a>
   </div>
