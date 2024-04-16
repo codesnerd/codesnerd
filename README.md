@@ -42,7 +42,7 @@
     <img src="https://github.com/codesnerd/codesnerd/assets/70039999/0f05be00-7e37-43b8-a7e9-d6068ec49391.png" width="50" height="50" alt="JavaScript" />
     &nbsp;&nbsp;<img src="https://github.com/codesnerd/codesnerd/assets/70039999/7b222f1c-9429-438d-a050-395123305e69.png" width="50" height="50" alt="TypeScript" />
     &nbsp;&nbsp;<img src="https://github.com/codesnerd/codesnerd/assets/70039999/90f6e358-741b-46a5-a579-982cc41ac9ad.png" width="50" height="50" alt="Angular" />
-    &nbsp;&nbsp;<img src="https://github.com/codesnerd/codesnerd/assets/70039999/fb5dadc6-c456-480d-8493-203c5a55815c.png" width="50" height="50" alt="React" />
+    &nbsp;&nbsp;<img src="https://github.com/codesnerd/codesnerd/assets/70039999/c5be3011-4899-4847-9bf5-ec6509013fa1.png" width="50" height="50" alt="React" />
   </div>
   <br />
   <div>
