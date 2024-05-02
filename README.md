@@ -1,5 +1,5 @@
 <!-- Banner -->
-![codesnerd Banner](https://github.com/codesnerd/codesnerd/assets/70039999/a23e47b4-5a20-436e-9b30-15b9c98a9a24.gif)
+![codesnerd Banner](https://github.com/codesnerd/codesnerd/assets/70039999/586a7eaf-d1a0-45b6-ac63-9ba97dbfea6c.gif)
 
 <!-- Introduction -->
 <div align="center">
