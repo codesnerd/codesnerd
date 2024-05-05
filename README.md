@@ -1,5 +1,7 @@
 <!-- Banner -->
-![codesnerd Banner](https://github.com/codesnerd/codesnerd/assets/70039999/586a7eaf-d1a0-45b6-ac63-9ba97dbfea6c.gif)
+<a href="https://codesnerd.com/">
+  <img src="https://github.com/codesnerd/codesnerd/assets/70039999/586a7eaf-d1a0-45b6-ac63-9ba97dbfea6c.gif" alt="codesnerd Banner" />
+</a>
 
 <!-- Introduction -->
 <div align="center">
