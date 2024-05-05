@@ -95,7 +95,8 @@
       <img src="https://github.com/codesnerd/codesnerd/blob/main/assets/git.svg" width="50" height="50" alt="Git" />
     </picture>
   </div>
-  <br />
+</div>
+<br />
 <hr />
 
 <!-- GitHub Stats -->
