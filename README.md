@@ -11,7 +11,7 @@
 <!-- Profile Views -->
 <div align="center">
   <picture>
-    <img src="https://komarev.com/ghpvc/?username=codesnerd&label=Profile%20views&color=2a5fd7&style=flat" alt="codesnerd GitHub views"/>
+    <img src="https://komarev.com/ghpvc/?username=codesnerd&label=Profile%20views&color=2a5fd7&style=flat" alt="codesnerd GitHub views" />
   </picture>
 </div>
 <br />
