@@ -28,7 +28,7 @@
 </div>
 <br />
 
-<!-- Connect With Me -->
+<!-- Connect with Me -->
 <div align="center">
   <h2>Connect with Me</h2>
   <div>
