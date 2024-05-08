@@ -1,7 +1,7 @@
 <!-- Banner -->
-<a href="https://codesnerd.com/">
-  <img src="https://github.com/codesnerd/codesnerd/assets/70039999/586a7eaf-d1a0-45b6-ac63-9ba97dbfea6c.gif" alt="codesnerd Banner" />
-</a>
+<picture>
+  <img src="https://github.com/codesnerd/codesnerd/assets/70039999/586a7eaf-d1a0-45b6-ac63-9ba97dbfea6c" alt="codesnerd Banner" />
+</picture>
 
 <!-- Introduction -->
 <div align="center">
